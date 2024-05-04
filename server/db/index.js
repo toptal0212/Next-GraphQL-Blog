@@ -22,3 +22,4 @@ export default async () => {
   console.log('connectar MongoDB')
   return await mongoose.connect(MONGO_URL)
 }
+ 
