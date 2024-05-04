@@ -8,7 +8,7 @@ The idea behind this app was that I wanted to learn all basic and advanced conce
 
 Live at: https://next-graphql.now.sh
 
-Preview:
+Preview: 
 ![Blog](https://github.com/Alexloof/Next-GraphQL-Blog/blob/master/blog-preview.PNG 'Blog')
 
 Run the app locally:
