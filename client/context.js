@@ -12,7 +12,7 @@ class ContextProvider extends Component {
     }
   }
 
-  componentDidMount() {
+  componentDidMount() { 
     const user = JSON.parse(localStorage.getItem('user'))
     this.setState(prevState => ({
       user: { ...prevState.user, ...user }
