@@ -17,7 +17,7 @@ class Login extends Component {
   state = {
     email: '',
     password: '',
-    name: ''
+    name: '' 
   }
 
   handleChange = event => {
