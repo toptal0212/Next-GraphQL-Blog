@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import Link from 'next/link'
 import { Button, Form, Loader, Message, Header } from 'semantic-ui-react'
 
-import withUser from '../lib/withUser'
+import withUser from '../lib/withUser' 
 import parseError from '../lib/parseError'
 
 import GoogleLoginButton from '../components/GoogleLoginButton'
